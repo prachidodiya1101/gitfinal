@@ -19,9 +19,3 @@ then
 else
 	echo"condition is false."
 fi
-
-
-
-
-===============================
-# this is my practice file
