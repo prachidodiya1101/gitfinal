@@ -15,7 +15,4 @@ b=20
 
 if [ [ $a -gt 8 && $b -lt 15 ] ]
 then
-	echo"condition is true."
-else
-	echo"condition is false."
-fi
+	
